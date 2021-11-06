@@ -17,13 +17,16 @@
 
 ## Languages and Tools:
 
-<div><img align="left" alt="javascript logo" width="22px" src="./assets/img/js_logo.png"/><img alt="json logo" width="22px"  src="./assets/img/json.png"/>  
-[mysql]
-<img alt="dom logo" width="22px" src="./assets/img/dom.png"/><img alt="mongo db logo"  width="92px" src="./assets/img/logoMongoDB.png"/></div>
+<div>
+<img align="left" alt="javascript logo" width="22px" src="./assets/img/js_logo.png"/>
+<img alt="json logo" width="22px"  src="./assets/img/json.png"/>  
+<img alt="mysql logo" width="22px" src="https://www.mysql.com/common/logos/powered-by-mysql-88x31.png
+"/>
+<img alt="dom logo" width="22px" src="./assets/img/dom.png"/><img alt="mongo db logo"  width="92px" src="./assets/img/logoMongoDB.png"/>
+</div>
 
 <br />
 <br />
 
 [chatbot]: https://github.com/RebeccaRamalho/Cv
 [linkedin]: https://www.linkedin.com/in/rebecca-kanu-1537121a6/
-[mysql]: https://www.mysql.com/common/logos/powered-by-mysql-88x31.png
