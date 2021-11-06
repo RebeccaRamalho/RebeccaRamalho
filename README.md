@@ -2,11 +2,6 @@
 
 ## I'm a javascript developper who is passionate about coding 🤩
 
-<!--
-**RebeccaRamalho/RebeccaRamalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a [ChatBot][chatbot] 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on project with Phaser 3
