@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [ChatBot][chatbot] 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on project with Phaser 3
-- 📫 How to reach me: [kanurebecca0@gmail.com]
+- 📫 How to reach me: kanurebecca0@gmail.com
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: I love reading Webtoons
 
