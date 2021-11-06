@@ -9,9 +9,7 @@
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love reading Webtoons
 
-## Connect with me:
-
-[<img align="left" alt="linkedin link" width="22px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
+## Connect with me: [<img align="left" alt="linkedin link" width="22px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
 
 <br />
 
