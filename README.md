@@ -22,7 +22,8 @@
     <img alt="json logo" width="22px"  src="./assets/img/json.png"/>  
     <img alt="mysql logo" width="22px" src="./assets/img/logo-mysql.png
     "/>
-    <img alt="dom logo" width="22px" src="./assets/img/dom.png"/><img alt="mongo db logo"  width="92px" src="./assets/img/logoMongoDB.png"/>
+    <img alt="dom logo" width="22px" src="./assets/img/dom.png"/>
+    <img alt="mongo db logo"  width="92px" src="./assets/img/logoMongoDB.png"/>
     
 </div>
 
