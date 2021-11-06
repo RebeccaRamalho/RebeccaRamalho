@@ -18,7 +18,7 @@
 ## Languages and Tools:
 
 <img align="left" alt="javascript logo" width="22px" src="./assets/img/js_logo.png"/><img alt="json logo" width="22px"  src="./assets/img/json.png"/>   
-<img alt="dom logo" margin-left="2200px" width="22px" src="./assets/img/dom.png"/>
+<img alt="dom logo" margin-left="2200px" width="22px" src="./assets/img/dom.png"/><img alt="mongo db logo" margin-left="2200px" width="22px" src="./assets/img/logoMongoDb.png"/>
 
 <br />
 <br />
