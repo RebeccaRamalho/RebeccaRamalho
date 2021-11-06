@@ -17,7 +17,7 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="javascript logo" width="22px" src="./assets/img/js_logo.png"/>
+<img align="left" alt="javascript logo" width="22px" src="./assets/img/js_logo.png"/><img alt="json logo" width="22px" src="./assets/img/json.png"/>
 
 <br />
 <br />
