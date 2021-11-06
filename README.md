@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate on project with the framework Phaser 3
 - 📫 How to reach me: kanurebecca0@gmail.com
 - 🥅 2021 goals: work on more algorithms
-- ⚡ Fun fact: i love reading Webtoons
+- ⚡ Fun fact: i love reading Bd and Webtoons
 
-## 🌐 Connect with me:
+## 🌍 Connect with me:
 
 [<img align="left" alt="linkedin link" width="22px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
 
