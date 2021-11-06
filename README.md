@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [ChatBot][chatbot]
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on project with the framework Phaser 3
+- 👯 I’m looking to collaborate on project with the framework [phaser]
 - 📫 How to reach me: kanurebecca0@gmail.com
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love reading Bd and Webtoons
@@ -24,3 +24,4 @@
 
 [chatbot]: https://github.com/RebeccaRamalho/Cv
 [linkedin]: https://www.linkedin.com/in/rebecca-kanu-1537121a6/
+[phaser]: https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png
