@@ -14,6 +14,7 @@
 [<img align="left alt="linkedin link" width="22px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
 
 <br />
+
 ## Languages and Tools:
 
 <br />
