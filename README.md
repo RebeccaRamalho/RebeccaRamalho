@@ -5,7 +5,6 @@
 <br/>
 
 ###  I'm a javascript developper who is passionate about coding!
-
 - 🔭 <samp> I’m currently working on this </samp> [<img alt="waving hand logo" width="40px" src="./assets/img/icons8-robot-2-64.png"/>][chatbot]
 - 🌱 <samp>I’m currently learning</samp>
 - 👯 <samp>I’m looking to collaborate on project with</samp> <img alt="linkedin link" width="32px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
