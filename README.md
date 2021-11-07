@@ -11,7 +11,7 @@
 
 ## 🌍 Connect with me:
 
-[<img align="left" alt="linkedin link" width="28px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
+[<img align="left" alt="linkedin link" width="35px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
 
 <br />
 
