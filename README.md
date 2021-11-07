@@ -1,6 +1,6 @@
 ### Hi there <img alt="waving hand logo" width="40px" src="./assets/img/waving_hand4.png"/>
 
-## I'm a javascript developper who is passionate about coding 🤩
+## I'm a javascript developper who is passionate about coding!
 
 - 🔭 I’m currently working on a [ChatBot][chatbot]
 - 🌱 I’m currently learning <img alt="typescript logo" width="22px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png"/>
