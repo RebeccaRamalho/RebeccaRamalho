@@ -24,6 +24,7 @@
     <img alt="dom logo" width="22px" src="./assets/img/dom.png"/>
     <img alt="mongo db logo"  width="92px" src="./assets/img/logoMongoDB.png"/>
     <img alt="axios logo" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
+    <img alt="sass logo" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
     
 </div>
 
