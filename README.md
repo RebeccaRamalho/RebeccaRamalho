@@ -1,4 +1,4 @@
-###  <Helveticap> Hi there, i'm Rebecca!</Helvetica>
+###  <arial> Hi there, i'm Rebecca!</arial>
 
 <img src="./assets/img/myVisitCard.gif" width="402px" alt="carte de visite"/>
 
