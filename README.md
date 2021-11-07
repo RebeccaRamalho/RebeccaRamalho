@@ -23,7 +23,7 @@
     <img alt="react logo" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"/>
     <img alt="dom logo" width="22px" src="./assets/img/dom.png"/>
     <img alt="mongo db logo"  width="92px" src="./assets/img/logoMongoDB.png"/>
-    <img alt="axios logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
+    <img alt="axios logo" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
     
 </div>
 
