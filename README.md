@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on this [<img alt="waving hand logo" width="40px" src="./assets/img/robot.png"/>][chatbot]
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on project with <img alt="linkedin link" width="32px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
-- 📫 How to reach me: kanurebecca0@gmail.com and [<img alt="linkedin link" width="31px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
+- 📫 How to reach me: kanurebecca0@gmail.com and [<img alt="linkedin link" width="25px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love reading Bd and Webtoons
 
