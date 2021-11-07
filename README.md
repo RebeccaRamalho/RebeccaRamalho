@@ -30,7 +30,6 @@
     <br/>
     <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
     <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
-    <img alt="mongoose logo" width="95px" src="./assets/img/mongoose.png"/>
     <img alt="node logo" width="95px" src="./assets/img/node.png"/>
     
     
