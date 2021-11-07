@@ -4,7 +4,7 @@
 
 <br/>
 
-## I'm a javascript developper who is passionate about coding!
+### I'm a javascript developper who is passionate about coding!
 
 - 🔭 I’m currently working on this [<img alt="waving hand logo" width="40px" src="./assets/img/icons8-robot-2-64.png"/>][chatbot]
 - 🌱 I’m currently learning
