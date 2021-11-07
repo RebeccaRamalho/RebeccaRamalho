@@ -1,4 +1,4 @@
-###  <samp> Hi there, i'm Rebecca!</samp>
+###  <Helveticap> Hi there, i'm Rebecca!</Helvetica>
 
 <img src="./assets/img/myVisitCard.gif" width="402px" alt="carte de visite"/>
 
