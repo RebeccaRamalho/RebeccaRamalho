@@ -29,6 +29,7 @@
     <img alt="sass logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
     <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
     <img alt="mongoose logo" width="75px" src="./assets/img/mongoose.png"/>
+    <img alt="git logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"/>
     <img alt="node logo" width="95px" src="./assets/img/node.png"/>
     <img alt="nuxt logo" width="30px"  src="https://develop365.gitlab.io/nuxtjs-2.8.X-doc/en/logos/nuxt-icon.png"/>
     
