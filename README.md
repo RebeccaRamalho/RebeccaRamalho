@@ -11,7 +11,7 @@
 
 ## 🌍 Connect with me:
 
-[<img align="left" alt="linkedin link" width="31px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
+[<img  style="margin-left: 130px;" alt="linkedin link" width="31px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
 
 <br />
 
@@ -30,7 +30,7 @@
     <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
     <img alt="mongoose logo" width="75px" src="./assets/img/mongoose.png"/>
     <img alt="node logo" width="95px" src="./assets/img/node.png"/>
-    <img alt="nuxt logo" width="30px" style="padding-left: 1000px;" src="https://develop365.gitlab.io/nuxtjs-2.8.X-doc/en/logos/nuxt-icon.png"/>
+    <img alt="nuxt logo" width="30px"  src="https://develop365.gitlab.io/nuxtjs-2.8.X-doc/en/logos/nuxt-icon.png"/>
     
     
 </div>
