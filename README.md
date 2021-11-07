@@ -14,7 +14,7 @@
 
 <br />
 
-### <samp>Languages and Tools:</samp>
+### Languages and Tools:
 
 <div>
     <img align="left" alt="javascript logo" width="31px" src="./assets/img/js_logo.png"/>
