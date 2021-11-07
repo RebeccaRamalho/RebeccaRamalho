@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img align="left" alt="waving hand logo" width="33px" src="./assets/img/waving_hand.png"/>
 
 ## I'm a javascript developper who is passionate about coding 🤩
 
