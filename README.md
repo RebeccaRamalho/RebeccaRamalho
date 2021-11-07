@@ -1,6 +1,6 @@
 ### Hi there, i'm Rebecca <img alt="waving hand logo" width="30px" src="./assets/img/waving_hand3.png"/>
 
-<img src="./assets/img/visitCard.gif" width="102px" alt="carte de visite"/>
+<img src="./assets/img/visitCard.gif" width="402px" alt="carte de visite"/>
 
 <br/>
 
