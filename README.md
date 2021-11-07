@@ -1,4 +1,4 @@
-### Hi there <img alt="waving hand logo" width="13px" src="./assets/img/waving_hand2.png"/>
+### Hi there <img alt="waving hand logo" width="18px" src="./assets/img/waving_hand2.png"/>
 
 ## I'm a javascript developper who is passionate about coding 🤩
 
@@ -8,7 +8,6 @@
 - 📫 How to reach me: kanurebecca0@gmail.com
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love reading Bd and Webtoons
-
 ## 🌍 Connect with me:
 
 [<img align="left" alt="linkedin link" width="35px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
