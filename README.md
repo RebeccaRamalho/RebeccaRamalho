@@ -18,7 +18,7 @@
 ## Languages and Tools:
 
 <div>
-    <img align="left" alt="javascript logo" width="22px" src="./assets/img/js_logo.png"/>
+    <img align="left" alt="javascript logo" width="32px" src="./assets/img/js_logo.png"/>
     <img alt="json logo" width="22px"  src="./assets/img/json.png"/>  
     <img alt="react logo" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"/>
     <img alt="dom logo" width="22px" src="./assets/img/dom.png"/>
