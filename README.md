@@ -28,7 +28,7 @@
     <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
     <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
     <img alt="css logo" width="65px" src="./assets/img/mongoose.png"/>
-    <img alt="node logo" width="75px" src="./assets/img/node.png"/>
+    <img alt="node logo" width="85px" src="./assets/img/node.png"/>
     
     
 </div>
