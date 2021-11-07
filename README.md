@@ -1,6 +1,6 @@
 ### Hi there, i'm Rebecca <img alt="waving hand logo" width="30px" src="./assets/img/waving_hand3.png"/>
 
-<img src="./assets/img/visitCard.gif" width="32px" alt="carte de visite"/>
+<img src="./assets/img/visitCard.gif" width="102px" alt="carte de visite"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on this [<img alt="waving hand logo" width="40px" src="./assets/img/robot.png"/>][chatbot]
 <!-- - 🌱 I’m currently learning  -->
-- 👯 I’m looking to collaborate on project with <img alt="linkedin link" width="82px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
+- 👯 I’m looking to collaborate on project with <img alt="linkedin link" width="32px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
 - 📫 How to reach me: kanurebecca0@gmail.com and [<img alt="linkedin link" width="25px" src="./assets/img/Linkedin_logo.png"/>][linkedin]
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love reading Bd and Webtoons
