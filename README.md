@@ -22,17 +22,15 @@
     <img alt="express logo" width="82px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/>
     <img alt="json logo" width="27px"  src="./assets/img/json.png"/>  
     <img alt="react logo" width="47px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"/>
+    <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
+    <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
     <br/>
     <img alt="dom logo" width="27px" src="./assets/img/dom.png"/>
     <img alt="mongo db logo"  width="97px" src="./assets/img/logoMongoDB.png"/>
     <img alt="axios logo" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
     <img alt="sass logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
-    <br/>
-    <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
-    <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
     <img alt="node logo" width="115px" src="./assets/img/node.png"/>
-    
-    
+
 </div>
 
 <br />
