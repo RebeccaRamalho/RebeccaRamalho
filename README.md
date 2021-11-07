@@ -1,10 +1,10 @@
-### Hi there, i'm Rebecca!
+###  <samp> Hi there, i'm Rebecca!</samp>
 
 <img src="./assets/img/myVisitCard.gif" width="402px" alt="carte de visite"/>
 
 <br/>
 
-### I'm a javascript developper who is passionate about coding!
+### <samp> I'm a javascript developper who is passionate about coding!</samp>
 
 - 🔭 <samp> I’m currently working on this </samp> [<img alt="waving hand logo" width="40px" src="./assets/img/icons8-robot-2-64.png"/>][chatbot]
 - 🌱 I’m currently learning
@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### <samp>Languages and Tools:</samp>
 
 <div>
     <img align="left" alt="javascript logo" width="31px" src="./assets/img/js_logo.png"/>
