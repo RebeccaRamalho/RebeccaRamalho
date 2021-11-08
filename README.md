@@ -1,16 +1,17 @@
-###  <arial> Hi there, i'm Rebecca!</arial>
+### Hi there, i'm Rebecca!
 
 <img src="./assets/img/myVisitCard.gif" width="402px" alt="carte de visite"/>
 <br/>
 
-###  I'm a javascript developper who is passionate about coding!
-- 🔭  I’m currently working on this [<img alt="waving hand logo" width="40px" src="./assets/img/icons8-robot-2-64.png"/>][chatbot]
-- 🌱 I’m currently learning
+### I'm a javascript developper who is passionate about coding!
+
+- 🔭 I’m currently working on this [<img alt="waving hand logo" width="40px" src="./assets/img/icons8-robot-2-64.png"/>][chatbot]
+
 - 👯 I’m looking to collaborate on project with<img alt="linkedin link" width="32px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
 - 📫How to reach me: [<img alt="linkedin link" width="25px" src="./assets/img/Linkedin_logo.png"/>][linkedin] and kanurebecca0@gmail.com
-- 🥅2021 goals: work on more algorithms
+- 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love drawing and reading Webtoons
-<br />
+  <br />
 
 ### Languages and Tools:
 
@@ -36,3 +37,4 @@
 
 [chatbot]: https://github.com/RebeccaRamalho/Cv
 [linkedin]: https://www.linkedin.com/in/rebecca-kanu-1537121a6/
+<!-- - 🌱 I’m currently learning -->
