@@ -16,20 +16,20 @@
 ### Languages and Tools:
 
 <div>
-    <!-- <img align="left" alt="javascript logo" width="31px" src="./assets/img/js_logo.png"/> -->
-      <!-- <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/> -->
+    <img align="left" alt="javascript logo" width="31px" src="./assets/img/js_logo.png"/>
+      <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
     <img alt="express logo" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/>
-    <!-- <img alt="json logo" width="27px"  src="./assets/img/json.png"/>   -->
+    <img alt="json logo" width="27px"  src="./assets/img/json.png"/>  
     <img alt="react logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"/>
        <img alt="nuxt logo" width="40px"  src="https://develop365.gitlab.io/nuxtjs-2.8.X-doc/en/logos/nuxt-icon.png"/>
-    <!-- <img alt="dom logo" width="27px" src="./assets/img/dom.png"/> -->
-    <!-- <img alt="mongo db logo"  width="97px" src="./assets/img/logoMongoDB.png"/> -->
+    <img alt="dom logo" width="27px" src="./assets/img/dom.png"/>
+    <img alt="mongo db logo"  width="97px" src="./assets/img/logoMongoDB.png"/>
     <img alt="axios logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
     <img alt="sass logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
     <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
-    <!-- <img alt="mongoose logo" width="75px" src="./assets/img/mongoose.png"/> -->
+    <img alt="mongoose logo" width="75px" src="./assets/img/mongoose.png"/>
     <img alt="git logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"/>
-    <!-- <img alt="node logo" width="95px" src="./assets/img/node.png"/> -->
+    <img alt="node logo" width="95px" src="./assets/img/node.png"/>
  
 </div>
 
