@@ -16,8 +16,8 @@
 ### Languages and Tools:
 
 <div>
-    <img align="left" alt="javascript logo" width="31px" src="./assets/img/js_logo.png"/>
-      <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
+    <img alt="javascript logo" width="31px" src="./assets/img/js_logo.png"/>
+    <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
     <img alt="express logo" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/>
     <img alt="json logo" width="27px"  src="./assets/img/json.png"/>  
     <img alt="react logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"/>
