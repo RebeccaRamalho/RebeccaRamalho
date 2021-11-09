@@ -26,7 +26,7 @@
     <img alt="mongo db logo"  width="97px" src="./assets/img/logoMongoDB.png"/>
     <img alt="axios logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
     <img alt="sass logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
-    <img alt="bootstrap logo" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
+    <img alt="bootstrap logo" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
     <img alt="mongoose logo" width="55px" src="./assets/img/mongoose.png"/>
     <img alt="git logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"/>
     <img alt="node logo" width="95px" src="./assets/img/node.png"/>
