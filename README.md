@@ -33,6 +33,9 @@
  
 </div>
 
+<img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho"/>
+>
+
 <br />
 <br />
 
