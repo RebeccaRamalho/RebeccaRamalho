@@ -27,7 +27,7 @@
     <img alt="axios logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
     <img alt="sass logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
     <img alt="bootstrap logo" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
-    <img alt="mongoose logo" width="65px" src="./assets/img/mongoose.png"/>
+    <img alt="mongoose logo" width="75px" src="./assets/img/mongoose.png"/>
     <img alt="git logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"/>
     <img alt="node logo" width="95px" src="./assets/img/node.png"/>
  
