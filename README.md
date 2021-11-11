@@ -46,8 +46,8 @@
 </div>
 
 <br/>
-<img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
 
+<img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
 
 <br />
 
