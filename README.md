@@ -11,9 +11,9 @@
 - 📫 How to reach me: [<img alt="linkedin link" width="25px" src="./assets/img/Linkedin_logo.png"/>][linkedin] and kanurebecca0@gmail.com
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love drawing and reading Webtoons
-  <br />
+<br />
 
-<img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
+<div><img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/></div>
 
 <br/>
 
