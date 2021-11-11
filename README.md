@@ -15,6 +15,8 @@
 
 ### Languages and Tools:
 
+<details>	
+  <summary><b>Techno</summary>
 <div>
     <img alt="javascript logo" width="31px" src="./assets/img/js_logo.png"/>
     <img alt="css logo" width="25px" src="./assets/img/CSS3.png"/>
@@ -32,13 +34,11 @@
     <img alt="node logo" width="95px" src="./assets/img/node.png"/> -->
  
 </div>
-
+</details>
 <br />
 <img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
 
-
 <!-- <img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Recks"/> -->
-
 
 <br />
 <br />
