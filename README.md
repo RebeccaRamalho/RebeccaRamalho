@@ -39,9 +39,9 @@
 <br/>
 
 <!-- <img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Recks"/> -->
-
+<!-- 
 <br/>
-![Visitor Count](https://profile-counter.glitch.me/{RebeccaRamalho}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{RebeccaRamalho}/count.svg) -->
 <br />
 <br />
 
