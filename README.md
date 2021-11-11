@@ -13,6 +13,10 @@
 - ⚡ Fun fact: i love drawing and reading Webtoons
   <br />
 
+<img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
+
+<br/>
+
 ### Languages and Tools:
 
 <div>
@@ -38,12 +42,8 @@
 </div>
 
 <br />
-<img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
-
-<br/>
 
 <!-- <img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Recks"/> -->
-
 
 <br />
 <br />
