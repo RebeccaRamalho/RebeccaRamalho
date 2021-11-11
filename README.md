@@ -13,7 +13,6 @@
 - ⚡ Fun fact: i love drawing and reading Webtoons
 <br />
 
-<div><img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/></div>
 
 <br/>
 
@@ -40,11 +39,15 @@
     <img alt="axios logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/150px-Axios_logo_%282020%29.svg.png"/>
     <img alt="sass logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
     <img alt="bootstrap logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
-    <img alt="git logo" width="47px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"/> -->
+    <img alt="git logo" width="47px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"/> 
     <!-- <img alt="mongoose logo" width="85px" src="./assets/img/mongoose.png"/>
     <img alt="node logo" width="95px" src="./assets/img/node.png"/>
  
 </div>
+
+<br/>
+<img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
+
 
 <br />
 
