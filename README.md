@@ -28,8 +28,8 @@
     <img alt="sass logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
     <img alt="bootstrap logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
     <img alt="git logo" width="47px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"/>
-    <img alt="mongoose logo" width="85px" src="./assets/img/mongoose.png"/>
-    <img alt="node logo" width="95px" src="./assets/img/node.png"/>
+    <!-- <img alt="mongoose logo" width="85px" src="./assets/img/mongoose.png"/>
+    <img alt="node logo" width="95px" src="./assets/img/node.png"/> -->
  
 </div>
 
