@@ -1,7 +1,7 @@
-#### Hi there, i'm Rebecca!
+#### 👾 Hi there, i'm Rebecca!
 <img src="./assets/img/myVisitCard.gif" width="402px" alt="carte de visite"/>
 
-#### I'm a javascript developper who is passionate about coding!
+#### 🚀 I'm a javascript developper who is passionate about coding!
 
 - 🔭 I’m currently working on this [<img alt="waving hand logo" width="40px" src="./assets/img/icons8-robot-2-64.png"/>][chatbot]
 - 👯 I’m looking to collaborate on project with<img alt="linkedin link" width="32px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
@@ -9,7 +9,7 @@
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love drawing and reading Webtoons
 
-#### Languages and Tools:
+#### 🔬Languages and Tools:
 
 <div>
     <img alt="javascript logo" width="21px" src="./assets/img/js_logo.png"/>
