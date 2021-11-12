@@ -1,7 +1,5 @@
 #### Hi there, i'm Rebecca!
-
 <img src="./assets/img/myVisitCard.gif" width="402px" alt="carte de visite"/>
-<br/>
 
 #### I'm a javascript developper who is passionate about coding!
 
