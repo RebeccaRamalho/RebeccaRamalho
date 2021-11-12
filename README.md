@@ -11,7 +11,6 @@
 - 📫 How to reach me: [<img alt="linkedin link" width="25px" src="./assets/img/Linkedin_logo.png"/>][linkedin] and kanurebecca0@gmail.com
 - 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love drawing and reading Webtoons
-  <br />
 
 #### Languages and Tools:
 
