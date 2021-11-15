@@ -1,6 +1,6 @@
 #### 👾 Hi there, i'm Rebecca!
-<img src="./assets/img/kanu_rebecca.gif" width="402px" alt="presentation"/>
-<!-- <img src="./assets/img/KANU_Rebecca.gif" width="402px" alt="presentation"/> -->
+<!-- <img src="./assets/img/kanu_rebecca.gif" width="402px" alt="presentation"/> -->
+<img src="./assets/img/KANU_Rebecca.gif" width="402px" alt="presentation"/>
 <!-- <img src="./assets/img/kanu.gif" width="402px" alt="presentation"/>  -->
 
 <!-- <img src="./assets/img/presentation2.gif" width="402px" alt="presentation"/> -->
