@@ -1,6 +1,7 @@
 #### 👾 Hi there, i'm Rebecca!
-<img src="./assets/img/kanu_rebecca.gif" width="402px" alt="carte de visite"/>
-<!-- <img src="./assets/img/myVisitCard.gif" width="402px" alt="carte de visite"/> -->
+<!-- <img src="./assets/img/kanu_rebecca.gif" width="402px" alt=""/> -->
+<img src="./assets/img/KANU_Rebecca.gif" width="402px" alt="presentation"/>
+<!-- <img src="./assets/img/myVisitCard.gif" width="402px" alt="/> -->
 
 #### 🚀 I'm a javascript developper who is passionate about coding!
 
