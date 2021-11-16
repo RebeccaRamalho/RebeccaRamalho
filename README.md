@@ -1,7 +1,8 @@
 #### 👾 Hi there, i'm Rebecca!
+
 <!-- <img src="./assets/img/kanu_rebecca.gif" width="402px" alt="presentation"/> -->
 <!-- <img src="./assets/img/KANU_Rebecca.gif" width="402px" alt="presentation"/> -->
-<img src="./assets/img/kanu.gif" width="402px" alt="presentation"/> 
+<img src="./assets/img/kanu.gif" width="402px" alt="presentation"/>
 
 <!-- <img src="./assets/img/presentation2.gif" width="402px" alt="presentation"/> -->
 
@@ -12,7 +13,7 @@
 - 🔭 I’m currently working on this [<img alt="waving hand logo" width="40px" src="./assets/img/icons8-robot-2-64.png"/>][chatbot]
 - 👯 I’m looking to collaborate on project with<img alt="linkedin link" width="32px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
 - 📫 How to reach me: [<img alt="linkedin link" width="20px" src="./assets/img/Linkedin_logo.png"/>][linkedin] and kanurebecca0@gmail.com
-- 🥅 2021 goals: work on more algorithms      
+- 🥅 2021 goals: work on more algorithms
 - ⚡ Fun fact: i love drawing and reading Webtoons
 
 #### 🔬Languages and Tools:
@@ -39,9 +40,19 @@
 <img align="left" alt="Kanu Rebecca github stats" src="https://github-readme-stats.vercel.app/api?username=RebeccaRamalho&show_icons=true"/>
 
 <br/>
-<!-- 
-<img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Recks"/> -->
 
+### ✨ Recent Activity
+
+<!--START_SECTION:activity-->
+
+1. 💪 Opened PR [#14602](https://github.com/webpack/webpack/pull/14602) in [webpack/webpack](https://github.com/webpack/webpack)
+2. 💪 Opened PR [#3019](https://github.com/webpack/webpack-cli/pull/3019) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#1605](https://github.com/nuxt/framework/pull/1605) in [nuxt/framework](https://github.com/nuxt/framework)
+4. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
+5. 💪 Opened PR [#1409](https://github.com/nuxt/framework/pull/1409) in [nuxt/framework](https://github.com/nuxt/framework)
+   <!--END_SECTION:activity-->
+   <!--
+   <img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Recks"/> -->
 
 <br />
 <br />
