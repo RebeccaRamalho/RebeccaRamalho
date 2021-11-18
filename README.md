@@ -57,7 +57,7 @@
 <br />
 <br />
 
-[chatbot]: https://github.com/RebeccaRamalho/Cv
+<!-- [chatbot]: https://github.com/RebeccaRamalho/Cv -->
 [linkedin]: https://www.linkedin.com/in/rebecca-kanu-1537121a6/
 
 <!-- - 🌱 I’m currently learning -->
