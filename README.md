@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on this [<img alt="waving hand logo" width="28px" src="./assets/img/robot.png"/>][chatbot]
 - 👯 I’m looking to collaborate on project with<img alt="linkedin link" width="32px" src="https://raw.githubusercontent.com/photonstorm/phaser/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"/>
 - 📫 How to reach me: [<img alt="linkedin link" width="20px" src="./assets/img/Linkedin_logo.png"/>][linkedin] and kanurebecca0@gmail.com
-- 🥅 2023 goals: do a lot of algorithm and more python scripts!
+- 🥅 2025 goals: finish my portfolio!
 - ⚡ Fun fact: i love drawing and bd
 
 #### 🔬Languages and Tools:
